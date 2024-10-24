@@ -8,25 +8,6 @@ This is a simple weather dashboard application built with React. It allows users
 - View a five-day weather forecast.
 - Responsive design for better usability across devices.
 
-## Folder Structure
-
-The project Component structure is organized as follows:
-
-weather-api-task/
-└── src/
-    ├── App.css                # Styles for the main application
-    ├── App.jsx                # Main application component
-    ├── index.css              # Global styles
-    ├── main.jsx               # Entry point of the application
-    └── components/            # Folder for React components
-            ├── Forecast.jsx       # Component displaying weather forecast
-            ├── ForecastDay.jsx     # Component for individual forecast days
-            ├── SearchBox.jsx       # Component for the search input
-            ├── WeatherDashboard.jsx # Main component that handles fetching weather data
-            └── WeatherInfo.jsx      # Component displaying current weather information
-
-
-
 
 ### Explanation of Components
 
