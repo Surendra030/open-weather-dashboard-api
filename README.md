@@ -1,5 +1,5 @@
 
-![Screenshot](./public/output screenshot.png "Screenshot of Output")
+![Screenshot](public/output screenshot.png "Screenshot of Output")
 
 
 
