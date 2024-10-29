@@ -1,3 +1,8 @@
+
+![Screenshot](./public/output screenshot.png "Screenshot of Output")
+
+
+
 # Weather Dashboard
 
 This is a simple weather dashboard application built with React. It allows users to search for a city and view the current weather conditions along with a five-day weather forecast. The data is fetched from the [OpenWeatherMap API](https://openweathermap.org/).
